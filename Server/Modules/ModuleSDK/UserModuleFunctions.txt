@@ -1,0 +1,1 @@
+This is a listing of accessable function from the User Module that you can call from your module(s).

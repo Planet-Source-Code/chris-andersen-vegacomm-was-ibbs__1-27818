@@ -1,0 +1,1 @@
+This directory contains user, mail, and message board databases and configuration files.

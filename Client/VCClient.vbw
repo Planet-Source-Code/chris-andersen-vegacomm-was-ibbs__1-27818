@@ -1,0 +1,14 @@
+clsClientSocket = 239, 103, 686, 679, C
+modVegaClient = 179, 82, 943, 658, 
+frmVegaClient = 415, 111, 862, 687, , 0, 0, 0, 0, C
+clsModuleCol = 239, 103, 686, 679, C
+clsSendCodes = 411, 109, 858, 685, 
+frmModules = 239, 103, 686, 679, , 0, 0, 0, 0, C
+MBox = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modModuleInfo = 462, 120, 909, 691, 
+modRegistry = 0, 0, 0, 0, C
+MBoxMod = 0, 0, 0, 0, C
+frmLogin = 453, 131, 900, 707, , 0, 0, 0, 0, C
+frmChat = 437, 164, 884, 740, , 0, 0, 0, 0, C
+frmUsers = 385, 134, 832, 710, , 0, 0, 0, 0, C
+frmPM = 530, 120, 977, 696, , 0, 0, 0, 0, C

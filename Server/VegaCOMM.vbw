@@ -1,0 +1,10 @@
+modVega = 313, 152, 880, 728, 
+frmVega = 195, 98, 896, 674, , 0, 0, 0, 0, C
+clsSocket = 387, 115, 834, 691, 
+clsSendCodes = 324, 82, 950, 644, 
+frmModules = 284, 91, 731, 667, C, 0, 0, 0, 0, C
+modModuleInfo = 142, 6, 687, 582, C
+modRegistry = 285, 91, 732, 667, C
+clsModuleCollection = 239, 103, 686, 679, C
+MBoxMod = 239, 103, 686, 679, C
+MBox = 239, 103, 686, 679, C, 0, 0, 0, 0, C

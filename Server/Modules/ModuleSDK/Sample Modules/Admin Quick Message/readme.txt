@@ -1,0 +1,1 @@
+This sample module is just a quick simple example showing how to send a message from the client module and the server end will accept it and display the message. Just compile these and install them.
